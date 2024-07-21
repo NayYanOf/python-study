@@ -1,0 +1,2 @@
+print('Os operadores são + (Soma), - (Subtração), * (Multiplicação), / (Divisão), ** (Potência), // (Divisão inteira), % (Resto da divisão)')
+print('A ordem de execução em uma operação aritmética é: 1 - () (Parênteses), 2 - ** (Potência), 3 - * (Multiplicação, Divisão, Divisão inteira e Resto da divisão), 4 - + (Soma) e - (Subtração)')
